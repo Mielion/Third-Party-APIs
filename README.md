@@ -1,4 +1,4 @@
-# 05 Third-Party APIs: Task Board
+# Third-Party APIs: Task Board
 
 ## Your Task
 
